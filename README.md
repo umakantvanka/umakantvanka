@@ -11,8 +11,8 @@
 
 | Project | What it shows | Links |
 |---|---|---|
-| **Loan Journey POC** | Home-loan origination with mock Aadhaar, PAN and bureau integrations, RBI LTV/FOIR rules, and retry/fallback when a partner service fails | [Live demo](https://umakantvanka.netlify.app/loan/) · [Code](https://github.com/uvcr7/loan-journey-poc) |
-| **Delivery Date Forecaster** | Monte Carlo simulation of sprint velocity and scope creep to give confidence-based go-live dates | [Live demo](https://umakantvanka.netlify.app/forecaster/) · [Code](https://github.com/uvcr7/delivery-forecaster) |
+| **Loan Journey POC** | Home-loan origination with mock Aadhaar, PAN and bureau integrations, RBI LTV/FOIR rules, and retry/fallback when a partner service fails | [Live demo](https://umakantvanka.netlify.app/loan/) · [Code](https://github.com/umakantvanka/loan-journey-poc) |
+| **Delivery Date Forecaster** | Monte Carlo simulation of sprint velocity and scope creep to give confidence-based go-live dates | [Live demo](https://umakantvanka.netlify.app/forecaster/) · [Code](https://github.com/umakantvanka/delivery-forecaster) |
 
 ## How I work
 
